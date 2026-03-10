@@ -1,7 +1,0 @@
-fastapi
-uvicorn[standard]
-websockets
-pydantic
-bcrypt
-requests
-python-multipart
